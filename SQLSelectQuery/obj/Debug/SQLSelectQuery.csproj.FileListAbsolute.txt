@@ -1,0 +1,5 @@
+C:\Users\Sandbox-Bitbucket\Square9App_Debug\PropertyMapping.xml
+C:\Users\mmccauley.SALES\Downloads\CallAssemblyExamples-master\SQLSelectQuery\SQLSelectQuery\obj\Debug\SQLSelectQuery.csprojAssemblyReference.cache
+C:\Users\mmccauley.SALES\Downloads\CallAssemblyExamples-master\SQLSelectQuery\SQLSelectQuery\obj\Debug\SQLSelectQuery.csproj.CoreCompileInputs.cache
+C:\Users\mmccauley.SALES\Downloads\CallAssemblyExamples-master\SQLSelectQuery\SQLSelectQuery\obj\Debug\SQLSelectQuery.dll
+C:\Users\mmccauley.SALES\Downloads\CallAssemblyExamples-master\SQLSelectQuery\SQLSelectQuery\obj\Debug\SQLSelectQuery.pdb

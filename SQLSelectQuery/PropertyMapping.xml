@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PropertyMapping>
+  <PropertyMap>
+    <WorkflowID>SAMPLE</WorkflowID>
+    <ConnectionString>1</ConnectionString>
+    <SqlStatement>2</SqlStatement>
+    <ReturnValue1>3</ReturnValue1>
+    <ReturnValue2>4</ReturnValue2>
+    <ReturnValue3>5</ReturnValue3>
+    <ReturnValue4>6</ReturnValue4>
+    <ReturnValue5>7</ReturnValue5>
+  </PropertyMap>
+</PropertyMapping>
